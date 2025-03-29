@@ -16,9 +16,9 @@ menu:
         - name: Research
           url: papers/
           weight: 2
-       # - name: Portfolio
-       #   url: courses/
-      #    weight: 3
+        - name: Portfolio
+          url: courses/
+          weight: 3
       #  - name: Data
       #    url: data/
       #    weight: 4 
@@ -79,22 +79,23 @@ params:
           url: Jairo_cv.pdf
         - name: Email
           url: jairo.macedo@ufpe.br
-      #  - name: Zoom
-      #    url: https://www.zoom.us/my/igelfeld
-      #  - name: Location
-      #    url: location/
-      #  - name: Office Hours
-      #    url: officehours/
-        #- name: Google Scholar
-        #  url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/jairomacedo/
         - name: GitHub
           url: https://github.com/jaairomacedo
+        - name: X
+          url: https://x.com/_jairo
        # - name: Substack
        #   url: https://pmichaillat.substack.com
        # - name: YouTube
        #   url: https://www.youtube.com/@alexandermccallsmithoffici9000
-        - name: X
-          url: https://x.com/_jairo
+    #  - name: Zoom
+      #    url: https://www.zoom.us/my/igelfeld
+      #  - name: Location
+      #    url: location/
+        #- name: Google Scholar
+        #  url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+
 
     assets:
         disableScrollBarStyle: true
