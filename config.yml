@@ -53,8 +53,8 @@ params:
     profileMode:
           enabled: true
           title: Jairo Macedo
-          subtitle: 👋🏼 Hey, I’m Jairo! Be welcome. /n
-          👨🏻‍💻 I’m an economist with a Master’s degree from UFPE.
+          subtitle: "👋🏼 Hey, I’m Jairo! Be welcome. /n
+          👨🏻‍💻 I’m an economist with a Master’s degree from UFPE."
           
           imageUrl: "profile.png"
           imageWidth: 180
