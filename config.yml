@@ -59,12 +59,12 @@ params:
           imageWidth: 180
           imageHeight: 180
           buttons:
-            - name: Research
-              url: papers/
-            - name: Portfolio
-              url: courses/
-            - name: CV
-              url: data/
+           # - name: Research
+           #   url: papers/
+           # - name: Portfolio
+           #   url: courses/
+           # - name: CV
+            #  url: data/
            # - name: Books
            #   url: books/
            # - name: Tags
@@ -79,7 +79,7 @@ params:
           url: Jairo_cv.pdf
         - name: Email
           url: jairo.macedo@ufpe.br
-        - name: LinkedIn
+        - name: Linkedin
           url: https://www.linkedin.com/in/jairomacedo/
         - name: GitHub
           url: https://github.com/jaairomacedo
