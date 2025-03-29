@@ -58,7 +58,7 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
+          title: Jairo Macedo
           subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
           imageUrl: "picture.jpeg"
           imageWidth: 160
@@ -81,7 +81,7 @@ params:
 
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: Jairo_cv.pdf
         - name: Email
           url: mailto:moritz.maria.von.igelfeld@gmail.com
         - name: Zoom
@@ -98,8 +98,8 @@ params:
           url: https://pmichaillat.substack.com
         - name: YouTube
           url: https://www.youtube.com/@alexandermccallsmithoffici9000
-        - name: Twitter
-          url: https://twitter.com/McCallSmith
+        - name: X
+          url: https://x.com/_jairo
 
     assets:
         disableScrollBarStyle: true
