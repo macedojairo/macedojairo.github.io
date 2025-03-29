@@ -64,7 +64,7 @@ params:
             - name: Portfolio
               url: courses/
             - name: CV
-              url: Jairo_cv.pdf
+              url: about/
            # - name: Books
            #   url: books/
            # - name: Tags
