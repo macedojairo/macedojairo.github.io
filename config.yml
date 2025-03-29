@@ -53,12 +53,8 @@ params:
     profileMode:
           enabled: true
           title: Jairo Macedo
-          subtitle: "
-          👨🏻‍💻 I’m an economist with a Master’s degree from UFPE.
-          🔍 I’m interested in applied economics — especially causal inference in agriculture, misallocation, and corporate finance — and I like to spice things up with some macro modeling from time to time.
-          📚 I’m currently applying machine learning methods to problems in applied economics, with a focus on causal inference and forecasting.
-          💼 I’ve also worked in the corporate world, leading efforts in management, strategic planning, high-impact projects, and data-driven decision-making."
-
+          subtitle: ""
+          
           imageUrl: "profile.png"
           imageWidth: 160
           imageHeight: 160
