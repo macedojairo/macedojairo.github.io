@@ -27,13 +27,7 @@ menu:
           weight: 6
 
 params:
-    description: "👨🏻‍💻 I’m an economist with a Master’s degree from UFPE.
-
-🔍 I’m interested in applied economics — especially causal inference in agriculture, misallocation, and corporate finance — and I like to spice things up with some macro modeling from time to time.
-
-📚 I’m currently applying machine learning methods to problems in applied economics, with a focus on causal inference and forecasting.
-
-💼 I’ve also worked in the corporate world, leading efforts in management, strategic planning, high-impact projects, and data-driven decision-making."
+    description: ""
     author: Jairo Macedo
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -59,7 +53,14 @@ params:
     profileMode:
           enabled: true
           title: Jairo Macedo
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
+          subtitle: "👨🏻‍💻 I’m an economist with a Master’s degree from UFPE.
+
+🔍 I’m interested in applied economics — especially causal inference in agriculture, misallocation, and corporate finance — and I like to spice things up with some macro modeling from time to time.
+
+📚 I’m currently applying machine learning methods to problems in applied economics, with a focus on causal inference and forecasting.
+
+💼 I’ve also worked in the corporate world, leading efforts in management, strategic planning, high-impact projects, and data-driven decision-making."
+
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
