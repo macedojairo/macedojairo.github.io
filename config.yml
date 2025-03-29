@@ -12,12 +12,12 @@ menu:
     main:
         - name: CV
           url: Jairo_cv.pdf
-       #   weight: 5 
+          weight: 5 
         - name: Research
           url: papers/
           weight: 2
-        - name: Portfolio
-          url: courses/
+       # - name: Portfolio
+       #   url: courses/
       #    weight: 3
       #  - name: Data
       #    url: data/
