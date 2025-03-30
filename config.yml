@@ -10,8 +10,8 @@ taxonomies:
 
 menu:
     main:
-        #- name: CV
-        #  url: Jairo_cv.pdf
+        - name: CV
+          url: Jairo_cv.pdf
        #   weight: 5 
        # - name: Research
        #   url: papers/
@@ -27,7 +27,7 @@ menu:
         #  weight: 6
 
 params:
-    description: ""
+    description: "TESTE"
     author: Jairo Macedo
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -53,14 +53,14 @@ params:
     profileMode:
           enabled: true
           title: Jairo Macedo
-          subtitle: ""
+          subtitle: "TESTE"
           
           imageUrl: "profile.png"
           imageWidth: 180
           imageHeight: 180
           buttons:
-           # - name: Research
-           #   url: papers/
+            - name: Research
+              url: papers/
            # - name: Portfolio
            #   url: courses/
            # - name: CV
