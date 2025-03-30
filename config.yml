@@ -56,11 +56,11 @@ params:
           subtitle: "TESTE"
           
           imageUrl: "profile.png"
-          imageWidth: 180
-          imageHeight: 180
+          imageWidth: 160
+          imageHeight: 160
           buttons:
-            - name: Research
-              url: papers/
+           # - name: Research
+           #   url: papers/
            # - name: Portfolio
            #   url: courses/
            # - name: CV
