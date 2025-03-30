@@ -1,5 +1,6 @@
 baseURL: "https://jaairomacedo.github.io/" 
 title: Jairo Macedo
+paginate: 20
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -27,7 +28,7 @@ menu:
         #  weight: 6
 
 params:
-    description: "I’m an economist with a Master’s degree from UFPE"
+    description: "I’m an economist"
     author: Jairo Macedo
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
