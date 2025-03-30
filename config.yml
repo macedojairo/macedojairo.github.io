@@ -85,8 +85,8 @@ params:
           url: https://github.com/jaairomacedo
         - name: X
           url: https://x.com/_jairo
-       # - name: Substack
-       #   url: https://pmichaillat.substack.com
+        - name: Kaggle
+          url: https://www.kaggle.com/jairomacedo
        # - name: YouTube
        #   url: https://www.youtube.com/@alexandermccallsmithoffici9000
     #  - name: Zoom
@@ -103,7 +103,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Jairo's homepage"
       icon: favicon.ico
       iconHeight: 18
 
