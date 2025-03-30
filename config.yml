@@ -59,11 +59,11 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-         #   - name: Research
-         #     url: papers/
-          #  - name: Portfolio
-          #    url: courses/
-          #  - name: CV
+            - name: Research
+              url: papers/
+            - name: Portfolio
+              url: courses/
+            - name: CV
           #    url: data/
            # - name: Books
            #   url: books/
@@ -85,8 +85,8 @@ params:
           url: https://github.com/jaairomacedo
         - name: X
           url: https://x.com/_jairo
-        - name: Kaggle
-          url: https://www.kaggle.com/jairomacedo
+       # - name: Kaggle
+       #   url: https://www.kaggle.com/jairomacedo
        # - name: YouTube
        #   url: https://www.youtube.com/@alexandermccallsmithoffici9000
     #  - name: Zoom
