@@ -57,7 +57,7 @@ params:
           
           imageUrl: "profile.png"
           imageWidth: 140
-          imageHeight: 105
+          imageHeight: 160
           buttons:
             - name: Research
               url: papers/
