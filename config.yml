@@ -14,12 +14,12 @@ menu:
         - name: CV
           url: data/
           weight: 5 
-        - name: Research
-          url: papers/
-          weight: 2
-        - name: Portfolio
-          url: courses/
-          weight: 3
+      #  - name: Research
+       #   url: papers/
+       #   weight: 2
+       # - name: Portfolio
+       #   url: courses/
+       #   weight: 3
       #  - name: Data
         #  url: data/
         #  weight: 4 
@@ -62,10 +62,10 @@ params:
           buttons:
             - name: Research
               url: papers/
-            - name: Portfolio
-              url: courses/
-            - name: CV
-              url: data/
+          #  - name: Portfolio
+          #    url: courses/
+          #  - name: CV
+           #   url: data/
            # - name: Books
            #   url: books/
            # - name: Tags
