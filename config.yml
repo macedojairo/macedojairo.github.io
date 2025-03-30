@@ -58,7 +58,6 @@ params:
           imageUrl: "profile.png"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Jairo
           buttons:
             - name: Research
               url: papers/
