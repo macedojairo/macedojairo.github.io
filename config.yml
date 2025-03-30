@@ -19,9 +19,9 @@ menu:
         - name: Portfolio
           url: courses/
           weight: 3
-      #  - name: Data
-      #    url: data/
-      #    weight: 4 
+        - name: Data
+          url: data/
+          weight: 4 
        # - name: Blog
        #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
         #  weight: 6
