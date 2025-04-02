@@ -16,9 +16,9 @@ menu:
         - name: Research
           url: papers/
           weight: 2
-        - name: Portfolio
-          url: courses/
-          weight: 3
+       # - name: Portfolio
+        #  url: courses/
+        #  weight: 3
       #  - name: Data
         #  url: data/
         #  weight: 4 
