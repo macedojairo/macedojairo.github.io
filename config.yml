@@ -1,5 +1,5 @@
 baseURL: "https://jaairomacedo.github.io/" 
-title: Jairo MacedoXX
+title: Jairo Macedo
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -10,9 +10,9 @@ taxonomies:
 
 menu:
     main:
-      #  - name: CV
-       #   url: data/
-       #   weight: 5 
+        - name: CV
+          url: data/
+          weight: 5 
       #  - name: Research
         #  url: papers/
         #  weight: 2
@@ -61,10 +61,10 @@ params:
           buttons:
             - name: Research
               url: papers/
-            - name: Portfolio
-              url: courses/
-            - name: CV
-              url: data/
+          #  - name: Portfolio
+          #    url: courses/
+           # - name: CV
+           #   url: data/
            # - name: Books
            #   url: books/
            # - name: Tags
