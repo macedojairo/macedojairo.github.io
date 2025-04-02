@@ -10,12 +10,12 @@ taxonomies:
 
 menu:
     main:
-        - name: CV
-          url: data/
-          weight: 5 
-        - name: Research
-          url: papers/
-          weight: 2
+      #  - name: CV
+       #   url: data/
+       #   weight: 5 
+      #  - name: Research
+        #  url: papers/
+        #  weight: 2
        # - name: Portfolio
         #  url: courses/
         #  weight: 3
@@ -59,12 +59,12 @@ params:
           imageWidth: 140
           imageHeight: 140
           buttons:
-            - name: Research
-              url: papers/
-            - name: Portfolio
-              url: courses/
-            - name: CV
-              url: data/
+          #  - name: Research
+          #    url: papers/
+          #  - name: Portfolio
+          #    url: courses/
+          #  - name: CV
+            #  url: data/
            # - name: Books
            #   url: books/
            # - name: Tags
