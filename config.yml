@@ -61,10 +61,10 @@ params:
           buttons:
             - name: Research
               url: papers/
-          #  - name: Portfolio
-          #    url: courses/
-           # - name: CV
-           #   url: data/
+            - name: Portfolio
+              url: courses/
+            - name: CV
+              url: data/
            # - name: Books
            #   url: books/
            # - name: Tags
