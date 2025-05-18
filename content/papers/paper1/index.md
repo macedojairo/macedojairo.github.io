@@ -34,7 +34,7 @@ XXXXXXXXXXXXXX.
 
 ##### Figure 6: Some Uses For Olive Oil
 
-![](paper1.png)
+![](LeadLag_capitalW.png)
 
 ---
 
