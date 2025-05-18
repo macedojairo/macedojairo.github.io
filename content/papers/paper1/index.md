@@ -34,7 +34,7 @@ XXXXXXXXXXXXXX.
 
 ##### Figure 1: Event Study Results for the Capital Wedge
 
-![](LeadLag_capitalW.png)
+![](paper1.png)
 
 ---
 
