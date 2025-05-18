@@ -12,7 +12,7 @@ cover:
     relative: false
 editPost:
     URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Oleic Science"
+    Text: "XXXXXX"
 
 ---
 
@@ -40,18 +40,16 @@ XXXXXXXXXXXXXX.
 
 ##### Citation
 
-Unterholzer, Detlev A., and  Moritz-Maria von Igelfeld. 2013. "Unusual Uses For Olive Oil." *Journal of Oleic Science* 34 (1): 449–489. http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil.
+Macedo, Jairo, and Paulo Vaz. 2025. Distorting Signals: The Role of Short-Selling in Capital Allocation Efficiency. Working Paper, Federal University of Pernambuco.
 
 ```BibTeX
-@article{UI13,
-author = {Detlev A. Unterholzer and Moritz-Maria von Igelfeld},
-year = {2013},
-title ={Unusual Uses For Olive Oil},
-journal = {Journal of Oleic Science},
-volume = {34},
-number = {1},
-pages = {449--489},
-url = {http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil}}
+@unpublished{MV25,
+  author  = {Jairo Macedo and Paulo Vaz},
+  year    = {2025},
+  title   = {Distorting Signals: The Role of Short-Selling in Capital Allocation Efficiency},
+  note    = {Unpublished Working Paper, Federal University of Pernambuco},
+  url     = {https://your-link-here.com} 
+}
 ```
 
 ---
