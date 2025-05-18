@@ -32,7 +32,7 @@ XXXXXXXXXXXXXX.
 
 ---
 
-##### Figure 6: Some Uses For Olive Oil
+##### Figure 1: Event Study Results for the Capital Wedge
 
 ![](LeadLag_capitalW.png)
 
