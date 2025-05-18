@@ -3,7 +3,7 @@ title: "Distorting Signals: The Role of Short-Selling in Capital Allocation Effi
 date: 2025-04-20
 lastmod: 2024-07-12
 tags: []
-author: ["Jairo Macedo","Moritz-Maria von Igelfeld"]
+author: ["Detlev Amadeus Unterholzer","Moritz-Maria von Igelfeld"]
 description: "YYY. YYYYY." 
 summary: "XXXX." 
 cover:
