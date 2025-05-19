@@ -1,5 +1,5 @@
 ---
-title: "Lectures at the Villa of Reduced Circumstances"
+title: "Working on it! Exciting updates coming soon"
 date: 2003-03-10
 lastmod: 2024-09-08
 aliases: 
