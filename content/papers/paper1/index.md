@@ -1,7 +1,7 @@
 ---
 title: "Distorting Signals: The Role of Short-Selling in Capital Allocation Efficiency" 
-date: 2025-04-20
-lastmod: 2024-07-12
+date: 2025-05-15
+lastmod: 2025-05-10
 tags: []
 author: ["Detlev Amadeus Unterholzer","Moritz-Maria von Igelfeld"]
 description: "YYY. YYYYY." 
@@ -11,7 +11,7 @@ cover:
     alt: "Some Uses For Olive Oil"
     relative: false
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
+    URL: "https://github.com/macedojairo"
     Text: "XXXXXX"
 
 ---
