@@ -1,5 +1,5 @@
 ---
-title: "Profanity in Early Irish" 
+title: "Working on it! Exciting updates coming soon" 
 date: 1990-06-16
 lastmod: 2024-07-12
 tags: ["Irish","philology","profanity","Celtic languages","language modernization"]
