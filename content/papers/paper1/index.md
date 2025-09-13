@@ -5,7 +5,7 @@ lastmod: 2025-05-10
 tags: []
 author: ["Detlev Amadeus Unterholzer","Moritz-Maria von Igelfeld"]
 description: "YYY. YYYYY." 
-summary: "XXXX." 
+summary: "XXXXxxx." 
 cover:
     image: "paper1.png"
     alt: "Some Uses For Olive Oil"
